@@ -1,6 +1,6 @@
 # samplemusic
 
-It a simple list no functionality.
+It a simple music list without any functionality.
 
 
 
